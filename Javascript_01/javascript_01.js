@@ -63,4 +63,4 @@ const product = {
     offer : false,
     price : 10
 };
-console.log(product):
+console.log(product);
