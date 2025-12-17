@@ -1,0 +1,26 @@
+#heading {
+  color: blue;
+  text-decoration: line-through;
+}
+#heading2 {
+  color: white;
+  text-decoration: dashed;
+}
+#hiddenH1 {
+  color: Blue;
+  visibility: hidden;
+}
+.headingClass {
+  color: green;
+  text-decoration: underline;
+}
+body {
+  background-color: black;
+}
+button {
+  background-color: red;
+  color: white;
+}
+p {
+  color: white;
+}
