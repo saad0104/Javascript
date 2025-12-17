@@ -1,0 +1,16 @@
+#bx {
+  height: 100px;
+  width: 100px;
+  color: white;
+  background-color: green;
+  border: 1px solid black;
+  visibility: visible;
+}
+
+.pClass {
+  color: greenyellow;
+}
+
+.newClass {
+  background-color: red;
+}
