@@ -1,0 +1,35 @@
+h1 {
+  color: "blue";
+}
+#box1 {
+  height: 200px;
+  width: 200px;
+  border: red 1px;
+  color: white;
+  text-shadow: gray;
+  text-decoration: solid;
+  background-color: black;
+  text-align: center;
+  font-size: 32px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+#box2 {
+  height: 200px;
+  width: 200px;
+  border: red 1px;
+  color: white;
+  text-shadow: gray;
+  text-decoration: solid;
+  background-color: black;
+  text-align: center;
+  font-size: 32px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
